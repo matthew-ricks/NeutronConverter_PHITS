@@ -1,0 +1,26 @@
+# PHITS output files
+phits/output/*.out
+phits/output/*.eps
+phits/output/*.png
+phits/output/*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
