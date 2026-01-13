@@ -56,12 +56,6 @@ NeutronConverter_PHITS/
 
 ## Physics Description
 
-### Reaction of Interest
-The primary physics process is the 9Be(d,n)10B reaction:
-- **d + 9Be → 10B + n**
-
-This reaction has a Q-value of approximately +4.36 MeV, making it effective for neutron production even at low deuteron energies.
-
 ### PHITS Physics Models
 PHITS uses several physics models for this simulation:
 
