@@ -3,9 +3,6 @@ output_proton/
 output_deuteron/
 batch.out
 
-# Estimates (working/scratch)
-estimates/
-
 # Generated PDFs (regenerable from notebooks)
 *.pdf
 
