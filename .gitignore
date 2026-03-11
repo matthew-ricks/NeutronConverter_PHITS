@@ -1,14 +1,20 @@
-# PHITS output files
-phits/output/*.out
-phits/output/*.eps
-phits/output/*.png
-phits/output/*.log
+# PHITS output files (large, regenerable)
+output_proton/
+output_deuteron/
+batch.out
+
+# Estimates (working/scratch)
+estimates/
+
+# Generated PDFs (regenerable from notebooks)
+*.pdf
 
 # Python cache
 __pycache__/
 *.py[cod]
 *$py.class
 *.pyc
+.ipynb_checkpoints/
 
 # OS files
 .DS_Store

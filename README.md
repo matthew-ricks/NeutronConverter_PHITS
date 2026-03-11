@@ -510,7 +510,7 @@ To generate a geometry plot without running transport:
 icntl = 8    $ Geometry check only
 ```
 
-This creates geometry check outputs without particle transport.
+This creates geometry check outputs without particle transport.d
 
 ---
 
